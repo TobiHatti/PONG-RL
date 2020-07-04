@@ -1,0 +1,10 @@
+H:\Git\PONG-RL\PONG-SIM\bin\Debug\PONG-SIM.exe.config
+H:\Git\PONG-RL\PONG-SIM\bin\Debug\PONG-SIM.exe
+H:\Git\PONG-RL\PONG-SIM\bin\Debug\PONG-SIM.pdb
+H:\Git\PONG-RL\PONG-SIM\obj\Debug\PONG-SIM.csprojAssemblyReference.cache
+H:\Git\PONG-RL\PONG-SIM\obj\Debug\PONG_SIM.Properties.Resources.resources
+H:\Git\PONG-RL\PONG-SIM\obj\Debug\PONG-SIM.csproj.GenerateResource.cache
+H:\Git\PONG-RL\PONG-SIM\obj\Debug\PONG-SIM.csproj.CoreCompileInputs.cache
+H:\Git\PONG-RL\PONG-SIM\obj\Debug\PONG-SIM.exe
+H:\Git\PONG-RL\PONG-SIM\obj\Debug\PONG-SIM.pdb
+H:\Git\PONG-RL\PONG-SIM\obj\Debug\PONG_SIM.SimOutput.resources
